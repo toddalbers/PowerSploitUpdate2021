@@ -3,10 +3,11 @@ This PowerSploitUpdate2021 is an updated version of the script PowerSploit at th
 
 https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Get-GPPPassword.ps1
 
-The script at the link above has been archived and I updated it to add a sanity test and to output results 
-even if the results are zero results.
+The script at the link above has been archived and is read-only. So, I couldn't modify it there.
 
-All credit for the original script above goes to the original authors.
+I updated it to add a sanity test and to output results even if the results are zero results.
 
-This PowerSploitUpdate2021 script is also under the same licensing as the script PowerSploit at the link above even if the licensing changes.
+All credit for the original PowerSploit script at link above goes to the original authors.
+
+This PowerSploitUpdate2021 script is also under the same licensing as the script PowerSploit at the link above even if the licensing changes after this post.
 
